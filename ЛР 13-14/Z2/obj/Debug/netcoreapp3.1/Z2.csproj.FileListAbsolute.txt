@@ -1,0 +1,13 @@
+D:\3 КУРС\C#\ЛР 13-14\Z2\bin\Debug\netcoreapp3.1\Z2.exe
+D:\3 КУРС\C#\ЛР 13-14\Z2\bin\Debug\netcoreapp3.1\Z2.deps.json
+D:\3 КУРС\C#\ЛР 13-14\Z2\bin\Debug\netcoreapp3.1\Z2.runtimeconfig.json
+D:\3 КУРС\C#\ЛР 13-14\Z2\bin\Debug\netcoreapp3.1\Z2.runtimeconfig.dev.json
+D:\3 КУРС\C#\ЛР 13-14\Z2\bin\Debug\netcoreapp3.1\Z2.dll
+D:\3 КУРС\C#\ЛР 13-14\Z2\bin\Debug\netcoreapp3.1\Z2.pdb
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.AssemblyInfoInputs.cache
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.AssemblyInfo.cs
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.csproj.CoreCompileInputs.cache
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.dll
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.pdb
+D:\3 КУРС\C#\ЛР 13-14\Z2\obj\Debug\netcoreapp3.1\Z2.genruntimeconfig.cache

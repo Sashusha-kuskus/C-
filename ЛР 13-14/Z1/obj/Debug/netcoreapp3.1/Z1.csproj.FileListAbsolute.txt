@@ -1,0 +1,14 @@
+D:\3 КУРС\C#\ЛР 13-14\Z1\bin\Debug\netcoreapp3.1\Z1.exe
+D:\3 КУРС\C#\ЛР 13-14\Z1\bin\Debug\netcoreapp3.1\Z1.deps.json
+D:\3 КУРС\C#\ЛР 13-14\Z1\bin\Debug\netcoreapp3.1\Z1.runtimeconfig.json
+D:\3 КУРС\C#\ЛР 13-14\Z1\bin\Debug\netcoreapp3.1\Z1.runtimeconfig.dev.json
+D:\3 КУРС\C#\ЛР 13-14\Z1\bin\Debug\netcoreapp3.1\Z1.dll
+D:\3 КУРС\C#\ЛР 13-14\Z1\bin\Debug\netcoreapp3.1\Z1.pdb
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.csproj.AssemblyReference.cache
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.AssemblyInfoInputs.cache
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.AssemblyInfo.cs
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.csproj.CoreCompileInputs.cache
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.dll
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.pdb
+D:\3 КУРС\C#\ЛР 13-14\Z1\obj\Debug\netcoreapp3.1\Z1.genruntimeconfig.cache
